@@ -1,1 +1,2 @@
-# poo_ed_a
+# Disciplina de Programação orientada a Objetos
+
